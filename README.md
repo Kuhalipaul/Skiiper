@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-vist:skiiper-jag59v6gp-kuhali-pauls-projects.vercel.app
+
+## 🔗 Live Demo: skiiper-jag59v6gp-kuhali-pauls-projects.vercel.app
 
 ## Getting Started
 
